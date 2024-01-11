@@ -1,0 +1,70 @@
+*{
+   
+    margin: 0;
+    padding: 0;
+}
+label{
+    font-size: larger;
+    display: block;
+    margin-bottom: 10px;
+    
+    
+}
+.ni{
+    margin: 10px;
+    padding: 5px;
+}
+
+nav > ul{
+    display:flex;
+}
+
+nav li{
+    list-style: none;
+    margin-right: 10px;
+    
+}
+
+nav li a{
+   
+    color: Black;
+    text-decoration: none;
+    font-size: larger;
+    padding: 5px;
+}
+nav li:hover{
+    background-color: rgb(182, 181, 181);
+}
+
+#dib1{
+    background-color: #888A96;
+ 
+}
+
+.hone{
+    display:inline;
+    font-size: xx-larger;
+    font-style: italic;
+    text-align: center;
+}
+#pIn{
+    display:inline;
+}
+#Boldkoralagbe{
+    font-weight: 900;
+    margin-left:992px;
+    
+}
+#hone{
+    
+    font-size: xx-larger;
+    font-style: italic;
+    
+}
+table{
+    border-collapse: collapse;
+}
+td, th{
+    border: 3px solid black;
+    padding: 5px 10px;
+}
